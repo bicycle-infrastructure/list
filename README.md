@@ -7,7 +7,8 @@ If this list grows, maybe each city/country should have its own repository.
 * [List of all available bicycle paths in Barcelona (map)](http://ajuntament.barcelona.cat/bicicleta/ca)
 
 
-
+## Reykjavík
+* [Bicycle paths (2014)](https://reykjavik.is/thjonusta/gongu-og-hjolastigar)
 
 
 ## Other
