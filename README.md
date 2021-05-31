@@ -1,10 +1,10 @@
 # list
-List available bicycle paths in cities, and related information.
+List available bike lanes in cities, and related information.
 
 If this list grows, maybe each city/country should have its own repository.
 
 ## Barcelona
-* [List of all available bicycle paths in Barcelona (map)](http://ajuntament.barcelona.cat/bicicleta/ca)
+* [List of all available bike lanes in Barcelona (map)](http://ajuntament.barcelona.cat/bicicleta/ca)
 
 
 ## Reykjavík
